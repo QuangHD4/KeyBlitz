@@ -298,7 +298,7 @@ class GamePlay(State):
         if self.game.actions['results']:
             self.game.save_progress()
             self.exit_state()
-            Results(self.game).enter_state()
+            Results(self.game, goal_wpm=60).enter_state()
 
         if self.game.actions['restart']:
             self.game.save_progress()
