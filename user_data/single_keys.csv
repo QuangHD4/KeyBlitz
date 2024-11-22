@@ -1,0 +1,61 @@
+value,finger,shift,weight
+a,l_pinky,False,1
+b,l_index,False,1
+c,l_mid,False,1
+d,l_mid,False,1
+e,l_mid,False,1
+f,l_index,False,1
+g,l_index,False,1
+h,r_index,False,1
+i,r_mid,False,1
+j,r_index,False,1
+k,r_mid,False,1
+l,r_ring,False,1
+m,r_index,False,1
+n,r_index,False,1
+o,r_ring,False,1
+p,r_pinky,False,1
+q,l_pinky,False,1
+r,l_index,False,1
+s,l_ring,False,1
+t,l_index,False,1
+u,r_index,False,1
+v,l_index,False,1
+w,l_ring,False,1
+x,l_ring,False,1
+y,r_index,False,1
+z,l_pinky,False,1
+A,l_pinky, True,1
+B,l_index, True,1
+C,l_mid, True,1
+D,l_mid, True,1
+E,l_mid, True,1
+F,l_index, True,1
+G,l_index, True,1
+H,r_index, True,1
+I,r_mid, True,1
+J,r_index, True,1
+K,r_mid, True,1
+L,r_ring, True,1
+M,r_index, True,1
+N,r_index, True,1
+O,r_ring, True,1
+P,r_pinky, True,1
+Q,l_pinky, True,1
+R,l_index, True,1
+S,l_ring, True,1
+T,l_index, True,1
+U,r_index, True,1
+V,l_index, True,1
+W,l_ring, True,1
+X,l_ring, True,1
+Y,r_index, True,1
+Z,l_pinky, True,1
+ ,thumb,False,1
+",",r_mid,False,1
+.,r_ring,False,1
+',r_pinky,False,1
+"""",r_pinky,False,1
+;,r_pinky,False,1
+:,r_pinky,True,1
+?,r_pinky,True,1
